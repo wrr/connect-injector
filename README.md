@@ -1,3 +1,6 @@
+# Temporary fork of the connect-injector, used by connect-wwwhisper
+# until https://github.com/daffl/connect-injector/issues/7 is fixed.
+
 # connect-injector
 
 A middleware to inject content into any HTTP response.
@@ -73,5 +76,5 @@ __0.1.0__
 
 ## License
 
-Copyright (c) 2013 David Luecke  
+Copyright (c) 2013 David Luecke
 Licensed under the MIT license.
