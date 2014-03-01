@@ -1,5 +1,5 @@
 {
-  "name": "connect-injector-tmpfork",
+  "name": "connect-injector-frk",
   "description": "A middleware to inject content into any HTTP response.",
   "version": "0.2.3",
   "homepage": "https://github.com/daffl/connect-injector",

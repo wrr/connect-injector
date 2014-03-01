@@ -1,7 +1,8 @@
 # connect-injector
 
-(This is temporary fork of the connect-injector, used by connect-wwwhisper
- until https://github.com/daffl/connect-injector/issues/7 is fixed)
+(This is a temporary fork of the connect-injector, to be used by
+ connect-wwwhisper until
+ https://github.com/daffl/connect-injector/issues/7 is fixed)
 
 A middleware to inject content into any HTTP response.
 
